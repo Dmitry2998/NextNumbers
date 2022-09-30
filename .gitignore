@@ -1,5 +1,5 @@
 # User-specific files
-*.vscode
+/.vscode
 *.suo
 *.user
 *.sln.docstates
