@@ -22,3 +22,4 @@
 *.vspscc
 # NuGet Packages
 **/packages/
+*.code-workspace
